@@ -9,10 +9,11 @@
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
-- 📫 How to reach me **Mehran.a123@gmail.com**
+- 📫 How to reach me **https://t.me/mehran535**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/https://www.kaggle.com/mehran1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mehran1234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
